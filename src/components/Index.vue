@@ -6,7 +6,7 @@
       <router-view @toparent="getdata"></router-view>
       
     </section>
-    <footer>
+    <footer style="display:flex">
       <router-link to="/shop">
       <span class="iconfont icon-shangcheng footer_nav"></span>
       <span class="footer_bar">
